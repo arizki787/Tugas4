@@ -150,3 +150,16 @@ header{
 #cuaca-bandung header{
     text-align: center;
 }
+
+#cuaca-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .owm-weather-icon {
+    width: 150px;
+    height: 150px;
+  }
+  
